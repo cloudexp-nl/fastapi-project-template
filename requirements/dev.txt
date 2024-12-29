@@ -1,0 +1,7 @@
+pytest>=8.3.4
+pytest-asyncio>=0.25.0
+httpx>=0.28.1
+pytest-cov>=4.1.0  # for coverage reports
+black>=24.10.0
+flake8>=7.1.1
+isort>=5.13.2 
